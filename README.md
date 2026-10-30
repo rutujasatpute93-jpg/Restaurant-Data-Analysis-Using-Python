@@ -28,10 +28,6 @@ This project analyzes restaurant data using Python libraries to understand resta
 ## Skills Demonstrated
 Data Cleaning, Data Analysis, Exploratory Data Analysis (EDA), NumPy, Pandas, and Data Visualization.
 
-## Project Files
-- `Restaurant_Data_Analysis.ipynb` – Python notebook
-- `Restaurant_Data_Analysis.html` – HTML report
-- `cleaned_restaurant_data.csv` – Cleaned dataset, if included
 
 ## Conclusion
 This project demonstrates how Python libraries can be used to analyze restaurant data and generate meaningful insights through data visualization.
